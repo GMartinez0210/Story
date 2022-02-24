@@ -1,1 +1,1 @@
-the chapter 3 is a little empty
+I'm learning javascript
